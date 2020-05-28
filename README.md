@@ -1,4 +1,5 @@
 # QuizHackathon
+Mobile04 - Nhóm 2
     - Ứng dụng quiz cho phép chọn các bộ câu hỏi theo chủ đề để trả lời (tối thiểu 2 bộ đề)
     - Mỗi bộ đề có các câu hỏi (tối thiểu 10 câu hỏi)
     - Mỗi câu hỏi có tối thiểu 2 đáp án, dạng câu hỏi only choice
